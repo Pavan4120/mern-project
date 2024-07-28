@@ -1,0 +1,37 @@
+/* EditEmployee.css */
+
+.container {
+    background-color: #f8f9fa; /* Light gray background */
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
+  .card {
+    background-color: #ffffff; /* White background for the form card */
+    border: none;
+  }
+  
+  .card h2 {
+    color: #007bff; /* Bootstrap primary color for the heading */
+  }
+  
+  .form-control {
+    background-color: #f1f1f1; /* Light gray background for input fields */
+    border: 1px solid #ced4da; /* Bootstrap default border color */
+    border-radius: 5px;
+  }
+  
+  .form-label {
+    color: #495057; /* Bootstrap default text color */
+  }
+  
+  .btn-primary {
+    background-color: #007bff; /* Bootstrap primary color for the button */
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker shade for hover effect */
+    border-color: #0056b3;
+  }
+  

@@ -1,0 +1,12 @@
+/* Dashboard.css */
+
+.username {
+    color: blue; /* Change this to your desired color */
+    margin-right: 15px; /* Space between username and logout button */
+  }
+  
+  .logout-btn {
+    color: red; /* Change this to your desired color */
+    font-weight: bold;
+  }
+  
